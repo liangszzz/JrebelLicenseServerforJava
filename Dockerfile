@@ -1,4 +1,4 @@
-FROM ubuntu/jre:8-22.04_39
+FROM java:8u111-jre-alpine
 
 ENV PORT 9081
 
